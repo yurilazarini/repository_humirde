@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:17:1-46:12
+INJECTED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:17:1-46:12
+INJECTED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:17:1-46:12
+INJECTED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:17:1-46:12
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/85f0ac63a9815a82a700a1085c8da586/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:25.0.1] /home/usuario/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.0.1.aar/6e4f5590d4f3ff6bf65594762f648322/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/cc199d3710f81395ca4b106dc9c1af7f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/cac3f95a8fc531be00d0764dc8f83e4b/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/16839e2d94a275893c66bea4e7efc117/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/b7ca0a6942ae38b3d1943059c0306e4c/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/763134d46a871ad0e1337e2739d045ff/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/4adb7c002c28e282b66894973c1e9c44/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/c9e211b9c3e1a4fa4ef841bbbe700368/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/24a6647fb8377280656e85c31e43ed69/AndroidManifest.xml:17:1-27:12
+INJECTED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:17:1-46:12
+INJECTED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:17:1-46:12
+INJECTED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:17:1-46:12
+	package
+		ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:18:5-43
+		INJECTED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml
+		INJECTED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml
+		ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:17:1-46:12
+		INJECTED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml
+		ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:17:1-46:12
+		INJECTED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:17:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:21:22-64
+application
+ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:23:5-44:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/85f0ac63a9815a82a700a1085c8da586/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/85f0ac63a9815a82a700a1085c8da586/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/cc199d3710f81395ca4b106dc9c1af7f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/cc199d3710f81395ca4b106dc9c1af7f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/cac3f95a8fc531be00d0764dc8f83e4b/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/cac3f95a8fc531be00d0764dc8f83e4b/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/16839e2d94a275893c66bea4e7efc117/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/16839e2d94a275893c66bea4e7efc117/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/b7ca0a6942ae38b3d1943059c0306e4c/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/b7ca0a6942ae38b3d1943059c0306e4c/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/763134d46a871ad0e1337e2739d045ff/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/763134d46a871ad0e1337e2739d045ff/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/4adb7c002c28e282b66894973c1e9c44/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/4adb7c002c28e282b66894973c1e9c44/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/c9e211b9c3e1a4fa4ef841bbbe700368/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/c9e211b9c3e1a4fa4ef841bbbe700368/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/24a6647fb8377280656e85c31e43ed69/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/24a6647fb8377280656e85c31e43ed69/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:26:9-41
+	android:icon
+		ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:28:9-40
+activity#com.example.android.sunshine.MainActivity
+ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:29:9-36:20
+	android:label
+		ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:30:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:34:27-74
+activity#com.example.android.sunshine.DetailActivity
+ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:37:9-43:20
+	android:parentActivityName
+		ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:39:13-55
+	android:name
+		ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:38:13-43
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:40:13-42:49
+	android:value
+		ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:42:17-46
+	android:name
+		ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml:41:17-63
+uses-sdk
+INJECTED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml
+INJECTED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/85f0ac63a9815a82a700a1085c8da586/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/85f0ac63a9815a82a700a1085c8da586/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:25.0.1] /home/usuario/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.0.1.aar/6e4f5590d4f3ff6bf65594762f648322/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.1] /home/usuario/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.0.1.aar/6e4f5590d4f3ff6bf65594762f648322/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/cc199d3710f81395ca4b106dc9c1af7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/cc199d3710f81395ca4b106dc9c1af7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/cac3f95a8fc531be00d0764dc8f83e4b/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/cac3f95a8fc531be00d0764dc8f83e4b/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/16839e2d94a275893c66bea4e7efc117/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/16839e2d94a275893c66bea4e7efc117/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/b7ca0a6942ae38b3d1943059c0306e4c/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/b7ca0a6942ae38b3d1943059c0306e4c/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/763134d46a871ad0e1337e2739d045ff/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/763134d46a871ad0e1337e2739d045ff/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/4adb7c002c28e282b66894973c1e9c44/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/4adb7c002c28e282b66894973c1e9c44/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/c9e211b9c3e1a4fa4ef841bbbe700368/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/c9e211b9c3e1a4fa4ef841bbbe700368/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/24a6647fb8377280656e85c31e43ed69/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/24a6647fb8377280656e85c31e43ed69/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml
+INJECTED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/85f0ac63a9815a82a700a1085c8da586/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml
+		ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml
+		INJECTED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml
+		ADDED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml
+		INJECTED from /home/usuario/AndroidStudioProjects/udacity/ud851-Sunshine-student/S05.01-Solution-AsyncTaskLoader/app/src/main/AndroidManifest.xml
